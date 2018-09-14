@@ -1,0 +1,76 @@
+JAva history:
+---------------
+first viersion of java released in 1996 23rd jan
+actual work started in 1991
+
+1991 sun micrto system had a requrment new PL ---> sd/w for simple
+
+electronic devices cable tv component
+
+sun micrsystem formed 30 eng. group this teams lead by 
+James Gousling Petric naugthan
+
+the name for the project is Green project
+
+Green Project:
+--------------
+the new programing language should be
+1: Simple
+2:tight coded programing
+3: Arch neutral
+
+Simple PL:-
+-------------
+----> Less Excution
+----> less memory consumntion
+----> LKess consumption` ---->more hardware condumption----->more power---->more maintaines cost
+
+tight coded :-
+---------------
+
+all codedd befor we just need to use them....
+
+Arcg neutral :-
+--------------
+JAVA IS HAED WARE INDEPEMDENT
+
+1991,
+PASACAL  ---- > NICLAUSE WIRTH james reject the idea of the solution using pascakl
+bcoze they want solution through oops but niclause wirtjh give using 
+procedure oriented language
+
+1991, DEC ----> the tree name OAK jame think to give name language oak but oak is already a language so team was searchingnew 
+
+while working all eng.  of sun micro system used go and cafeteria and they used to take brand cofee the name of the cofeewas JAVA
+
+so java was the name oof the coffe
+
+JAVA is the name of the city in indo nesia rthat is is famouse for JAVA coffe
+
+that why we observe the sybol of java as a cup of cooffe with flames
+
+in 1992 DEc the first product on java PL: the name of the product wsa *7 it is
+
+*7 was the REMOTE control but it is very failur product no ojne want to buy that
+
+
+in the mid 1993 and 1994
+ 
+very much famous of wwww
+
+key componet of www was browser
+
+demand of browser
+
+mid of 1994 Musaik -----> Maerk Andreson -----> UG chikago university
+
+
+SMS think why dont mwe make browser
+
+in 1995 DEC-5th---> Hot JAVA browser----> successfull product SMS
+
+the key concept of that brower was JAVA
+ 
+in 1996 , JAVA -23rd - JAN SMS 
+
+jdk1.0  
