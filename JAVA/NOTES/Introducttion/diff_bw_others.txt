@@ -1,0 +1,106 @@
+Multiple inheritance is not possible in Java:
+
+6.Destructors are required in C++, but, Destructors are not required in JAVA:
+	Create Objects----> Constructors
+	Destroy object----> Destructors
+
+java has provided one inbuiklt feature name garbage collector ...so devloper does not responsible top destroy object
+1.C and C++ are static programming languages but JAVA is dynamic programming language:
+-----------------------------------------------------------------------------------------
+
+If any programming language allows memory allocation for primitive data types at compilation time
+[Static Time] then that programming language is called as Static Programming language.
+EX: C and C++
+.
+In C and C++ applications, memory will be allocated for primitive data types at compilation time only,
+not at runtime.
+
+If any programming language allows memory allocation for primitive data types at runtime, not at
+compilation time then that programming language is called as Dynamic Programming Language.
+EX: JAVA
+In java applications, memory will be allocated for primitive data types at runtime only, not at
+compilation time.
+
+Note: In Java applications, memory will be allocated for primitive data types at the time of creating
+objects only, in java applications, objects are created at runtime only.
+--------------------------------------------------------------------------------------------------------------
+
+2.Pre-Processor is required in C and C++ , but, Pre-Processor is not required in Java:
+--------------------------------------------------------------------------------------------
+
+In case of C and C++, the complete predefined library is provided in the form of header files
+
+EX:
+stdio.h
+conio.h
+math.h
+---
+----
+If we want to use predefined library in C and C++ applications, we have to include header files in C
+and C++ applications, for this, we have to use #include<> statement.
+
+EX:
+#include<stdio.h>
+#include<conio.h>
+#include<math.h>
+-------------------------------------------------------------------------------------------------------
+
+3.C and C++ are platform dependent programming languages, but, JAVA is platform Independent
+programming language:
+Q)What are the differences between .exe file and .class file?
+Ans:
+1. .exe file is available upto C and C++ only.
+ .class file is available upto Java.
+
+2. .exe file contains directly executable code.
+ .class file contains bytecode, it is not executable code directly, it is an intermediate code.
+
+3. .exe file is platform dependent file.
+ .class file is platform independent file.
+
+4. .exe file is less secured file.
+ .class file is more secured file.
+------------------------------------------------------------------------------------------------------
+
+4.Pointers are existed in C and C++, but, Pointers are not existed in Java:
+------------------------------------------------------------------------------
+
+Q)What are the differences between pointer variables and referece variables?
+Ans:
+1. Pointer variables are available upto C and C++.
+ Reference variables are available upto JAVA mainly.
+
+2. Pointer variables are able to refer a block of memory by storing its address locations.
+ Reference variables are able to refer a block of memory[Object] by storing object reference values,
+
+where Object reference value is hexa decimal form of hashcode, where hashcode is an unique
+identity provided by Heap manager.
+
+3. Pointer variables are recognized and initialized at compilation time.
+
+4. Reference variables are recognized and initialized at runtime.
+
+5.Multiple inheritance is not possible in Java:
+
+------------------------------------------------------------------------------------------------
+
+8. oprator overloading is not avail bale in JAVA:
+----------------------------------------------------
+Polymorphism:
+Static Polymorphism
+Ex-: Overloadind
+
+Dynamic Polymorphimsm
+Ex-:Ovewrriding
+
+
+---------------------------------------------------------------------------------------------------------
+
+8.c&c++ following call by value call by refrence parameter passing machanism JAVA is following only call by value passing machanism
+
+---------------------------------------------------------------------------------------------------------------------
+
+9.in c & c++ integer are ablwe to take 2 byte of memoryu and char take 1 byte of memmorybut in java inetger take 4 byte and char 2 byte:
+
+
+
